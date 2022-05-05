@@ -35,15 +35,10 @@ Details of the affected user/user group
 **Environment**
 Staging, production etc
 
-**Desktop (please complete the following information):**
+**Desktop/Smartphone (please complete the following information):**
+ - Windows/Mac/Android/iPhone etc
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
 **Screenshots**
